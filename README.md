@@ -58,5 +58,5 @@ Contributions are welcome! Feel free to submit issues or pull requests.
 This project is open-source and available under the MIT License.
 
 ---
-**Author:** Your Name  
-**GitHub:** [Your GitHub Link]
+**Author:** Nitish Kumar
+**GitHub:** https://github.com/BrightNitish
